@@ -1,0 +1,14 @@
+{
+  "peasants": {
+    "stones": 10,
+    "wood": 10
+  },
+  "knights": {
+    "stones": 50,
+    "wood": 10
+  },
+  "mages": {
+    "stones": 0,
+    "wood": 1000
+  }
+}

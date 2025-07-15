@@ -1,0 +1,23 @@
+togli la password e controlla se il nome è gia stato usato
+
+devo storare anche le coordinate bersagli delle unità deployate, per passarle al frontend e riconoscerle;
+
+messaggi di report degli attacchi
+
+
+todo:
+
+Frontend:
+
+Prendi il messaggio di benvenuto o di ritrovo e affichalo in un qualche modo.
+
+
+
+
+Backend:
+
+manage death
+
+management of errors. (fare la debug mode)
+
+id serve?

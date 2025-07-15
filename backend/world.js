@@ -1,0 +1,1 @@
+//ha una lista di persone e la mappa.

@@ -1,0 +1,8 @@
+{
+	"serverPort": 5500,
+	"castleUpdateEmitTimestep": 1000,
+	"mapUpdateEmitTimestep": 500,
+	"UpgradeStateCheckInterval": 1000,
+	"mapSize": { "rows": 25, "cols": 40 },
+	"unitsMovementTimestep": 2000
+}
